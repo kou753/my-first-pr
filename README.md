@@ -2,20 +2,20 @@
 
 This is my first project on GitHub.
 
-## Fetures
+## Features
 
 - Simple and clean codebase
-- Easy to undestand
-- Wel documented
+- Easy to understand
+- Well documented
 
 ## Getting Started
 
-Clone this repositry and get started!
+Clone this repository and get started!
 
 ```
 git clone https://github.com/yourusername/my-first-pr
 ```
 
-## Contributin
+## Contributing
 
 Feel free to open issues or pull request!
